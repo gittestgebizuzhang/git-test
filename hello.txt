@@ -1,6 +1,6 @@
 hello git! hello world!
 hello git! hello world! 小明
-hello git! hello world!
+hello git! hello world! 这是隔壁组长修改的内容
 hello git! hello world!
 hello git! hello world!
 hello git! hello world!
